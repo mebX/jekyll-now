@@ -3,7 +3,4 @@ layout: post
 title: First post
 ---
 
-helo
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+hello world this is my first post in this blog, i'm trying to figuret out the config's files and i'm getting a little stress so ye, this a personal blog for me, to express myself in my journey to learn the basic's of the infosec world so don't freak out if it's look like i'm talking to myself(cuz i'm actually talking to myself), anyway right now i'm reading Learning Pentesting for Android Devices from Aditya Gupta https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices
